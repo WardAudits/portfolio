@@ -1,1 +1,0 @@
-The audit report is not yet public on Code4rena.
