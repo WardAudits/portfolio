@@ -25,7 +25,7 @@ You can also request a quote on [Code4rena](https://code4rena.com/@natzuu) or [C
 
 | Project | Severity | Platform | Language | Social | Report |
 |:--:|:--:|:--:|:--:|:--:|:--:|
-| [Credit Guild](https://x.com/CreditGuild) | Medium | Private BBP | Solidity | [Announcement](https://x.com/OneTrueKirk/status/1784300752527413248) |  [📄](/bug-bounties/creditguild-bounty-01.md) |
+| [Credit Guild](https://x.com/CreditGuild) | Medium | Private BBP | Solidity | [Announcement](https://x.com/OneTrueKirk/status/1784300752527413248) |  [📄](/writeups/creditguild-bounty-01.md) |
 | [Xterio](https://x.com/xteriogames) | Medium (Duplicate) | Immunefi | Solidity | N/A | Private |
 | [Beanstalk](https://x.com/BeanstalkFarms) | Medium | Immunefi | Solidity | [Announcement](https://x.com/WardAudits/status/1851379426732491194) | Private |
 
