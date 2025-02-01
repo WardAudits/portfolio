@@ -2,7 +2,7 @@
 
 ## About
 
-Ward Audits is a security team that offers in-depth auditing and secure development of Solidity & Cairo smart contracts.
+Ward Audits is a security team that offers in-depth auditing and secure development of Solidity & Cairo smart contracts and Cosmos-SDK blockchains.
 
 Currently, the team consists of two Security Researchers; [Natzuu](https://x.com/natzuu9) and [0xpessimist](https://x.com/0xpessimist) (also known as, [eren.eth](https://x.com/notereneth)).
 
