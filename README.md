@@ -1,5 +1,7 @@
 # Ward Audits Portfolio
 
+![](https://i.imgur.com/pS0Xb4x.png)
+
 ## About
 
 Ward Audits is a security team that offers in-depth auditing and secure development of Solidity & Cairo smart contracts and Cosmos-SDK blockchains.
