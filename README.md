@@ -33,6 +33,7 @@ You can also request a quote on [Code4rena](https://code4rena.com/@natzuu) or [C
 | [Secret Network](https://x.com/SecretNetwork) | Critical | Private BBP | Go | N/A | Private |
 | [Stride](https://x.com/stride_zone) | Medium | Private BBP | Go | N/A | Private |
 | [Neutaro (Timpi)](https://neutaro.com/) | Critical | Private BBP | Go | N/A | Private |
+| Private | High | Immunefi | Go | [Announcement](https://x.com/0xpessimist/status/1893050375097184595) | Private |
 
 ### Competitions
 
