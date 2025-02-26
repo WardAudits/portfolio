@@ -14,8 +14,6 @@ For private audits or security consulting, please reach out to us on:
 
 You can also request a quote on [Code4rena](https://code4rena.com/@natzuu) or [Cantina](https://cantina.xyz/u/natzuu) to engage them as an intermediary.
 
-## 2024
-
 ### Project Development
 
 | Project | Description | Language | Social | State |
@@ -39,6 +37,8 @@ You can also request a quote on [Code4rena](https://code4rena.com/@natzuu) or [C
 
 | Project | Findings | Platform | Language | Report |
 |:--:|:--:|:--:|:--:|:--:|
+| [Revolution Protocol](https://x.com/collectivexyz) | 1 H, 1 L | Code4rena | Solidity |  [📄](https://github.com/code-423n4/2023-12-revolutionprotocol-findings/issues/627) |
+| [Ethereum Credit Guild](https://x.com/CreditGuild) | 1 M | Code4rena | Solidity |  [📄](https://github.com/code-423n4/2023-12-ethereumcreditguild-findings/issues/1218) |
 | [The Standard](https://x.com/thestandard_io) | 1 H | CodeHawks | Solidity |  [📄](https://codehawks.cyfrin.io/c/2023-12-the-standard/s/1421/) |
 | [021 (fka reNFT)](https://x.com/zero_to_one_gg) | 1 H, 1 M | Code4rena | Solidity |  [📄](https://github.com/code-423n4/2024-01-renft-findings/issues/482), [📄](https://github.com/code-423n4/2024-01-renft-findings/issues/450)  |
 | [Salty.IO](https://x.com/salty_io) | 2 M | Code4rena | Solidity |  [📄](https://github.com/code-423n4/2024-01-salty-findings/issues/607), [📄](https://github.com/code-423n4/2024-01-salty-findings/issues/607)  |
@@ -48,11 +48,3 @@ You can also request a quote on [Code4rena](https://code4rena.com/@natzuu) or [C
 | [ZetaChain](https://x.com/zetablockchain) | 1 L | Cantina | Solidity | Private |
 | [Symbiotic](https://x.com/symbioticfi) | 2 L, 2 INFO | Cantina | Solidity | Private |
 
-## 2023 (Starting from the last 2 weeks of December)
-
-### Competitions
-
-| Project | Findings | Platform | Language | Report |
-|:--:|:--:|:--:|:--:|:--:|
-| [Revolution Protocol](https://x.com/collectivexyz) | 1 H, 1 L | Code4rena | Solidity |  [📄](https://github.com/code-423n4/2023-12-revolutionprotocol-findings/issues/627) |
-| [Ethereum Credit Guild](https://x.com/CreditGuild) | 1 M | Code4rena | Solidity |  [📄](https://github.com/code-423n4/2023-12-ethereumcreditguild-findings/issues/1218) |
