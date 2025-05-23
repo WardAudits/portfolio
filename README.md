@@ -19,7 +19,7 @@ You can also request a quote on [Code4rena](https://code4rena.com/@natzuu) or [C
 | Project | Description | Language | Social | State |
 |:--:|:--:|:--:|:--:|:--:|
 | [Fibrous Finance](https://x.com/FibrousFinance) | We developed Solidity smart contracts to port Fibrous Finance, Starknet's first DEX Aggregator, to EVM-based blockchains (specifically Scroll). | Solidity | [Announcement](https://x.com/FibrousFinance/status/1845482601466732722) | Deployed on Scroll |
-| [Serpent](https://github.com/0xpessimist/serpent) | A modular and gas-efficient DEX Aggregation router that facilitates token and ether swaps through multiple protocols via swappers. | Solidity | N/A | Maintained Library |
+| [Serpent](https://github.com/0xpessimist/serpent) | A modular and gas-efficient DEX Aggregation router that facilitates token and ether swaps through multiple protocols via swappers. | Mostly Yul with Solidity | N/A | Maintained Library |
 
 
 ### Bug Bounties
